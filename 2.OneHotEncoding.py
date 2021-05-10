@@ -5,11 +5,11 @@ import pandas as pd
 data = example_chapter6()
 data['target'] = data['target'].astype(str)
 new_data = pd.get_dummies(data['target'], drop_first=True)
-#   class1	class2	class3	class4
-# 0	    0	    1	    0   	0
-# 1 	1   	0	    0   	0
-# 2 	0	    0	    1	    0
-# 3	    0   	0	    0	    1
+#   class1  class2  class3  class4
+# 0 0   1   0   0
+# 1 1   0   0   0
+# 2 0   0   1   0
+# 3 0   0   0   1
 
 new_data2 = pd.get_dummies(data)  # for all columns
 
