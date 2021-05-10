@@ -4,7 +4,7 @@
 
 
 1. 선형대수와 통계학으로 배우는 머신러닝 with 파이썬  
-Chapter|이론|코드  
+| Chapter | 이론 | 코드 |  
 |-------|---|---|  
 |6|데이터 전처리|1.LabelEncoder|  
 |||2.OneHotEncoding|  
