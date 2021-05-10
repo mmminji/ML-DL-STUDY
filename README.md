@@ -1,4 +1,4 @@
-# 머신러닝 공부
+# Machine Learning Study
 
 책 내용을 바탕으로 [이론](https://mmminji.github.io/)과 [코드](https://github.com/mmminji/Machine-Learning)를 정리하였습니다.
 
