@@ -24,4 +24,4 @@ TAX_std2 = std.fit_transform(data[['TAX']])
 # == fit train & transform test ==
 X_train, X_test, Y_train, Y_test = train_test_split(data.iloc[:,:-1], data.iloc[:,-1], test_size=0.2, random_state=123)
 x_train_std = minmax.fit_transform(X_train)
-x_test_ㄴsd = minmax.transform(X_test)
+x_test_sd = minmax.transform(X_test)
