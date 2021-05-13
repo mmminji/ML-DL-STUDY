@@ -8,3 +8,11 @@
 - [Label Encoder](https://github.com/mmminji/Machine-Learning/blob/master/1.LabelEncoder.py)
 - [One-Hot Encoding](https://github.com/mmminji/Machine-Learning/blob/master/2.OneHotEncoding.py)
 - [Scaling](https://github.com/mmminji/Machine-Learning/blob/master/3.Scaling.py)
+
+
+### [Chapter7. 모형 평가](https://mmminji.github.io/machinelearning/fitting/crossvalidation/pipeline/gridsearch/loss/evalmetrics/2021/05/11/%EC%84%A0%ED%86%B5%EB%A8%B87%EC%9E%A5.html)
+- [Pipeline](https://github.com/mmminji/Machine-Learning/blob/master/4.Pipeline.py)
+- [GridSearchCV](https://github.com/mmminji/Machine-Learning/blob/master/5.GridSearchCV.py)
+- [Classification Eval Metrics](https://github.com/mmminji/Machine-Learning/blob/master/6.ClassificationEval.py)
+- [Regression Eval Metrics](https://github.com/mmminji/Machine-Learning/blob/master/7.RegressionEval.py)
+- [Clustering Eval Metrics](https://github.com/mmminji/Machine-Learning/blob/master/8.ClusteringEval.py)
