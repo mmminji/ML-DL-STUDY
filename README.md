@@ -18,7 +18,7 @@
 - [Clustering Eval Metrics](https://github.com/mmminji/Machine-Learning/blob/master/7.6.4.ClusteringEval.py)
 
 
-### [Chapter8. 지도 학습](https://mmminji.github.io/machinelearning/fitting/crossvalidation/pipeline/gridsearch/loss/evalmetrics/2021/06/14/%EC%84%A0%ED%86%B5%EB%A8%B88%EC%9E%A5.html)
+### [Chapter8. 지도 학습](https://mmminji.github.io/knn/linearregression/logisticregression/naivebayes/decisiontree/supportvectormachine/2021/06/14/%EC%84%A0%ED%86%B5%EB%A8%B88%EC%9E%A5.html)
 - [kNN](https://github.com/mmminji/Machine-Learning/blob/master/8.3.kNN.py)
 - [Linear Regression](https://github.com/mmminji/Machine-Learning/blob/master/8.4.LinearRegression.py)
 - [Logistic Regression](https://github.com/mmminji/Machine-Learning/blob/master/8.5.LogisticRegression.py)
