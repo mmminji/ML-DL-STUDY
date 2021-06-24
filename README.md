@@ -39,3 +39,5 @@
 - [Perceptron](https://github.com/mmminji/Machine-Learning/blob/master/12.2.Perceptron.py)
 - [Classification ANN](https://github.com/mmminji/Machine-Learning/blob/master/12.3.7.ClassificationANN.py)
 - [Regression ANN](https://github.com/mmminji/Machine-Learning/blob/master/12.3.8.RegressionANN.py)
+- [CNN - Tensorflow](https://github.com/mmminji/Machine-Learning/blob/master/12.4.TensorFlowCNN.py)
+- [CNN - PyTorch](https://github.com/mmminji/Machine-Learning/blob/master/12.4.PyTorchCNN.py)
