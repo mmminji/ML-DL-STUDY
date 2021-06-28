@@ -41,3 +41,5 @@
 - [Regression ANN](https://github.com/mmminji/Machine-Learning/blob/master/12.3.8.RegressionANN.py)
 - [CNN - Tensorflow](https://github.com/mmminji/Machine-Learning/blob/master/12.4.TensorFlowCNN.py)
 - [CNN - PyTorch](https://github.com/mmminji/Machine-Learning/blob/master/12.4.PyTorchCNN.py)
+- [LSTM - Tensorflow](https://github.com/mmminji/Machine-Learning/blob/master/12.5.TensorFlowLSTM.py)
+- [GRU - PyTorch](https://github.com/mmminji/Machine-Learning/blob/master/12.5.PyTorchGRU.py)
