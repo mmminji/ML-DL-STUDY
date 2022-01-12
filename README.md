@@ -7,7 +7,6 @@
 
 
 ### - [Book] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬  
-------------------
 | 주제 | 링크 |
 |----|:----:|
 | **Chapter6. 머신러닝 데이터 살펴보기** | [이론](https://mmminji.github.io/machinelearning/preprocessing/missingvalue/labelencoder/scaling/2021/05/10/%EC%84%A0%ED%86%B5%EB%A8%B86%EC%9E%A5.html) |
@@ -46,7 +45,6 @@
 
 
 ### - [Lecture] 한 번에 끝내는 딥러닝/인공지능 초격차 패키지 Online  
-------------------
 | 주제 | 링크 |
 |----|:----:|
 | **파이토치 이론 및 실습** | 코드 |
