@@ -34,7 +34,7 @@
 | AdaBoost | [코드](https://github.com/mmminji/Machine-Learning/blob/master/9.4.2.AdaBoost.py) |
 | Gradient Boosting | [코드](https://github.com/mmminji/Machine-Learning/blob/master/9.4.5.GradientBoosting.py) |
 | Stacking | [코드](https://github.com/mmminji/Machine-Learning/blob/master/9.5.Stacking.py) |
-| **Chapter12. 딥러닝(1)** | [이론(1)](https://mmminji.github.io/ann/perceptron/backpropagation/activationfunction/batchnormalization/dropout/2021/06/22/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5.html)   [(2)](https://mmminji.github.io/cnn/kernel/padding/stride/pooling/channel/2021/06/24/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5(2).html)   [(3)](https://mmminji.github.io/rnn/lstm/gru/2021/06/28/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5(3).html) |
+| **Chapter12. 딥러닝** | [이론(1)](https://mmminji.github.io/ann/perceptron/backpropagation/activationfunction/batchnormalization/dropout/2021/06/22/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5.html)   [(2)](https://mmminji.github.io/cnn/kernel/padding/stride/pooling/channel/2021/06/24/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5(2).html)   [(3)](https://mmminji.github.io/rnn/lstm/gru/2021/06/28/%EC%84%A0%ED%86%B5%EB%A8%B812%EC%9E%A5(3).html) |
 | Perceptron | [코드](https://github.com/mmminji/Machine-Learning/blob/master/12.2.Perceptron.py) |
 | Classification ANN | [코드](https://github.com/mmminji/Machine-Learning/blob/master/12.3.7.ClassificationANN.py) |
 | Regression ANN | [코드](https://github.com/mmminji/Machine-Learning/blob/master/12.3.8.RegressionANN.py) |
