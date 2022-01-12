@@ -1,11 +1,11 @@
 # Machine Learning / Deep Learning
 
 책 또는 강의를 통해 공부한 내용을 이론과 코드로 정리하였습니다.
+<\br>
+<\br>
 
-
-
- 
-### [Book] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬  
+### - [Book] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬  
+- - -
 | 주제 | 링크 |
 |----|:----:|
 | **Chapter6. 머신러닝 데이터 살펴보기** | [이론](https://mmminji.github.io/machinelearning/preprocessing/missingvalue/labelencoder/scaling/2021/05/10/%EC%84%A0%ED%86%B5%EB%A8%B86%EC%9E%A5.html) |
@@ -43,7 +43,8 @@
 | GRU - PyTorch | [코드](https://github.com/mmminji/Machine-Learning/blob/master/12.5.PyTorchGRU.py) |
 
 
-### [Lecture] 한 번에 끝내는 딥러닝/인공지능 초격차 패키지 Online  
+### - [Lecture] 한 번에 끝내는 딥러닝/인공지능 초격차 패키지 Online  
+- - -
 | 주제 | 링크 |
 |----|:----:|
 | **파이토치 이론 및 실습** | 코드 |
