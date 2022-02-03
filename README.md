@@ -7,7 +7,7 @@
 
 
 ### - [Book] 선형대수와 통계학으로 배우는 머신러닝 with 파이썬  
-| 주제 | 이론 | 링크 |
+| 주제 | 링크 | 링크 |
 |----|:----:|:----:|
 | **Chapter6. 머신러닝 데이터 살펴보기** | [이론](https://mmminji.github.io/machinelearning/preprocessing/missingvalue/labelencoder/scaling/2021/05/10/%EC%84%A0%ED%86%B5%EB%A8%B86%EC%9E%A5.html) |  |
 | Label Encoder | | [코드](https://github.com/mmminji/Machine-Learning/blob/master/6.2.2.LabelEncoder.py) |
